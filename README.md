@@ -9,3 +9,5 @@ Run the main.py script, which will request an image from one of the pattern node
 Example output:
 
 ![example run](https://i.imgur.com/1lALJtz.png)
+
+left is python output, right is the image processor running.
